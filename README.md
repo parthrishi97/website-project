@@ -31,12 +31,7 @@ Resume-Website/
 
 ## How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone YOUR-REPOSITORY-URL
-   ```
-2. Open the project folder.
-3. Open `index.html` in your web browser.
+1. Visit https://parthrishi97.github.io/website-project/ on your web browser
 
 ## Author
 
